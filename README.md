@@ -14,9 +14,7 @@ Caratel is a simple front-end web application created to practice and demonstrat
 ---
 
 ## 🖼️ Screenshots
-(demo.png)
-
-
+![Website Preview](demo.png)
 
 ---
 
