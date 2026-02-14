@@ -1,19 +1,49 @@
-# React + Vite
+# 🚀 Caratel Web Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Caratel is a responsive and user-friendly web project designed to provide a clean interface and smooth user experience. The project is built using basic web technologies and deployed on Netlify.
 
-Currently, two official plugins are available:
+🌐 **Live Website:**  
+https://caratel.netlify.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 📌 About Project
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Caratel is a simple front-end web application created to practice and demonstrate HTML, CSS, and JavaScript skills. It focuses on clean design, easy navigation, and a fully responsive layout for all screen sizes.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## [Screenshot]
 
-# Caratel
 
+
+---
+
+## ✨ Features
+
+- Responsive design (mobile, tablet, desktop)  
+- Clean and modern UI  
+- Easy navigation  
+- Fast loading performance  
+- Beginner-friendly project structure  
+
+---
+
+## 🛠️ Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Netlify (for deployment)
+
+---
+
+## 👨‍💻 Author
+
+**Sunil Ukirde**
+
+---
+
+## 📄 License
+
+This project is created for educational purposes and is free to use.
